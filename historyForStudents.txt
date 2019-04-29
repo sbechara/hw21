@@ -1,3 +1,20 @@
+ls
+cd Documents/HW21-Simpsons/
+git push -u origin master
+git commit -m "Added text file"
+git status
+git add Untitled.txt
+git status
+git pull
+xdg-open README.md
+git push -u origin master
+git commit -m "added history for students"
+git status
+git add .
+git status
+ls
+xdg-open historyForStudents.txt
+history >> historyForStudents.txt
 tldr history
 man history
 git push -u origin master
@@ -11,3 +28,4 @@ echo "# hw21 Repository" >> README.md
 git init
 pwd
 cd Documents/HW21-Simpsons/
+
