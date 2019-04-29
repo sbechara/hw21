@@ -1,0 +1,13 @@
+tldr history
+man history
+git push -u origin master
+git remote add origin https://github.com/sbechara/hw21.git
+git commit -m "First commit"
+git status
+git add .
+git add README.md
+ls
+echo "# hw21 Repository" >> README.md
+git init
+pwd
+cd Documents/HW21-Simpsons/
